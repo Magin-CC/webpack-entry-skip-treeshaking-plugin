@@ -1,0 +1,27 @@
+{
+  "name": "webpack-skip-treeshaking-plugin",
+  "version": "1.0.0",
+  "description": "a useful webpack plugin",
+  "main": "dist/index.js",
+  "typings": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Magin-CC/webpack-entry-skip-treeshaking-plugin.git"
+  },
+  "keywords": [
+    "webpackplugin"
+  ],
+  "author": "Magin <573746388@qq.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Magin-CC/webpack-entry-skip-treeshaking-plugin/issues"
+  },
+  "homepage": "https://github.com/Magin-CC/webpack-entry-skip-treeshaking-plugin#readme",
+  "devDependencies": {
+    "typescript": "^4.7.4",
+    "webpack": "^5.74.0"
+  }
+}
